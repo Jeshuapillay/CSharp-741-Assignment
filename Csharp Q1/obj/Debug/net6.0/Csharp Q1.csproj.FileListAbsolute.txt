@@ -1,0 +1,15 @@
+C:\Users\Jesh\Desktop\Csharp Q1\bin\Debug\net6.0\Csharp Q1.exe
+C:\Users\Jesh\Desktop\Csharp Q1\bin\Debug\net6.0\Csharp Q1.deps.json
+C:\Users\Jesh\Desktop\Csharp Q1\bin\Debug\net6.0\Csharp Q1.runtimeconfig.json
+C:\Users\Jesh\Desktop\Csharp Q1\bin\Debug\net6.0\Csharp Q1.dll
+C:\Users\Jesh\Desktop\Csharp Q1\bin\Debug\net6.0\Csharp Q1.pdb
+C:\Users\Jesh\Desktop\Csharp Q1\obj\Debug\net6.0\Csharp Q1.csproj.AssemblyReference.cache
+C:\Users\Jesh\Desktop\Csharp Q1\obj\Debug\net6.0\Csharp Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesh\Desktop\Csharp Q1\obj\Debug\net6.0\Csharp Q1.AssemblyInfoInputs.cache
+C:\Users\Jesh\Desktop\Csharp Q1\obj\Debug\net6.0\Csharp Q1.AssemblyInfo.cs
+C:\Users\Jesh\Desktop\Csharp Q1\obj\Debug\net6.0\Csharp Q1.csproj.CoreCompileInputs.cache
+C:\Users\Jesh\Desktop\Csharp Q1\obj\Debug\net6.0\Csharp Q1.dll
+C:\Users\Jesh\Desktop\Csharp Q1\obj\Debug\net6.0\refint\Csharp Q1.dll
+C:\Users\Jesh\Desktop\Csharp Q1\obj\Debug\net6.0\Csharp Q1.pdb
+C:\Users\Jesh\Desktop\Csharp Q1\obj\Debug\net6.0\Csharp Q1.genruntimeconfig.cache
+C:\Users\Jesh\Desktop\Csharp Q1\obj\Debug\net6.0\ref\Csharp Q1.dll

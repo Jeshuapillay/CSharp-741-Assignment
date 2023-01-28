@@ -1,0 +1,15 @@
+C:\Users\Jesh\Desktop\CSharp Q3\obj\Debug\net6.0\CSharp Q3.csproj.AssemblyReference.cache
+C:\Users\Jesh\Desktop\CSharp Q3\obj\Debug\net6.0\CSharp Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesh\Desktop\CSharp Q3\obj\Debug\net6.0\CSharp Q3.AssemblyInfoInputs.cache
+C:\Users\Jesh\Desktop\CSharp Q3\obj\Debug\net6.0\CSharp Q3.AssemblyInfo.cs
+C:\Users\Jesh\Desktop\CSharp Q3\obj\Debug\net6.0\CSharp Q3.csproj.CoreCompileInputs.cache
+C:\Users\Jesh\Desktop\CSharp Q3\bin\Debug\net6.0\CSharp Q3.exe
+C:\Users\Jesh\Desktop\CSharp Q3\bin\Debug\net6.0\CSharp Q3.deps.json
+C:\Users\Jesh\Desktop\CSharp Q3\bin\Debug\net6.0\CSharp Q3.runtimeconfig.json
+C:\Users\Jesh\Desktop\CSharp Q3\bin\Debug\net6.0\CSharp Q3.dll
+C:\Users\Jesh\Desktop\CSharp Q3\bin\Debug\net6.0\CSharp Q3.pdb
+C:\Users\Jesh\Desktop\CSharp Q3\obj\Debug\net6.0\CSharp Q3.dll
+C:\Users\Jesh\Desktop\CSharp Q3\obj\Debug\net6.0\refint\CSharp Q3.dll
+C:\Users\Jesh\Desktop\CSharp Q3\obj\Debug\net6.0\CSharp Q3.pdb
+C:\Users\Jesh\Desktop\CSharp Q3\obj\Debug\net6.0\CSharp Q3.genruntimeconfig.cache
+C:\Users\Jesh\Desktop\CSharp Q3\obj\Debug\net6.0\ref\CSharp Q3.dll
